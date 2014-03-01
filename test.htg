@@ -1,0 +1,10 @@
+!<!DOCTYPE html>
+html
+	head
+		meta:charset="utf-8"
+		title:"test"
+		script:src="/scripts/jquery-1.10.2.js"
+		script:src="/scripts/flapjax-2.1-jquery-compat.js"
+		$test_head	
+	body
+		$test_body	
